@@ -1,4 +1,4 @@
-# CPP Java 1 Opdracht 3: 21 november 2017
+# Open Universiteit CPP Java programmeur module Java 1 Opdracht 3: 21 november 2017
 
 De opdracht bestaat uit een klasse Vector en een Junit klasse VectorTest. 
 
